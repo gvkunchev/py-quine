@@ -1,0 +1,1 @@
+'print("%s;%s" % (repr(__doc__), __doc__))';print("%s;%s" % (repr(__doc__), __doc__))
